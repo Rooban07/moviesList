@@ -1,1 +1,1 @@
-export const MAIL_ID = ['rooban.renio07@gmail.com', 'rooban.renio@gmail.com'];
+export const MAIL_ID = ['princejeba.prabhu@gmail.com', 'rooban.renio@gmail.com','MoviesOfficial@gmail.com'];

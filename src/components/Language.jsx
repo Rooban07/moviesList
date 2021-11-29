@@ -8,7 +8,7 @@ function Movies() {
 
   useEffect(async () => {
     let { default: moviesData } = await import(`../datasets/${name}.json`);
-    setMoies(moviesData);
+    setMoies(moviesData.reverse());
   }, [name]);
 
   return (

@@ -150,7 +150,7 @@
       }]
   },
   {
-    "name": "Tamil",
+    "name": "Hello",
     "date":"27-11-2021",
     "image":"jacket.jpg",
     "description": "This is good",
@@ -165,18 +165,21 @@
       }]
   },
   {
-    "name": "Tamil",
-    "date":"27-11-2021",
-    "image":"jacket.jpg",
-    "description": "This is good",
+    "name": "Maanadu",
+    "date":"29-11-2021",
+    "image":"Maanaadu.jpg",
+    "description": "Venkat Prabhu Politics",
     "url": [{
-      "tp":"360"
+      "tp":"240",
+      "murl": "https://droplink.co/Maanaadu250"
       },
       {
-      "tp":"720"
+      "tp":"360",
+      "murl": "https://droplink.co/Maanaadu360"
       },
       {
-      "tp":"1080"
+      "tp":"720",
+      "murl": "https://droplink.co/Maanaadu720700"
       }]
   }
 ]
