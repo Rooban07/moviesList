@@ -20,8 +20,8 @@ function List() {
                     <img className='rounded-md' src={new URL(`../assets/${ele.image}`, import.meta.url)} />
                   </p>
                   <div className='px-3 py-3'>
-                    <p className=' font-semibold'>{ele.name}</p>
-                    <p className=' text-xs text-p-450'>{ele.description}</p>
+                    <p className=' font-semibold my-2'>{ele.name}</p>
+                    <p className=' text-xs text-p-450 my-2'>{ele.description}</p>
                     <div>
                       {ele.url.map((el, idx) =>
                         el.murl && el.tp ? (

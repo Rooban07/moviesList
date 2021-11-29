@@ -113,5 +113,25 @@
         "murl": ""
       }
     ]
+  },
+  {
+    "name": "Hawkeye",
+    "date": "30-11-2021",
+    "image": "Hawkeye.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+        "tp": "Season 1 EP01",
+        "murl": "https://droplink.co/HawkeyeE01"
+      },
+      {
+        "tp": "Season 1 EP02",
+        "murl": "https://droplink.co/HawkeyeE02"
+      },
+      {
+        "tp": "1080",
+        "murl": ""
+      }
+    ]
   }
 ]
