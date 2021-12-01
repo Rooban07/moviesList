@@ -113,6 +113,73 @@
           "murl": ""
         }
       ]
+    },
+	{
+    "name": "Hawkeye",
+    "date": "2-11-2021",
+    "image": "Hawkeye.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+        "tp": "Season 1 EP01",
+        "murl": "https://droplink.co/HawkeyeE01"
+      },
+      {
+        "tp": "Season 1 EP02",
+        "murl": "https://droplink.co/HawkeyeE02"
+      },
+      {
+        "tp": "Season 1 EP03",
+        "murl": "https://droplink.co/HawkeyeE03"
+      }
+    ]
+  },
+  {
+    "name": "Money Heist",
+    "date": "1-12-2021",
+    "image": "moneyheist.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+        "tp": "Season 1",
+        "murl": "https://droplink.co/MoneyHeists01"
+      },
+      {
+        "tp": "Season 2",
+        "murl": "https://droplink.co/MoneyHeists02"
+      },
+	  {
+        "tp": "Season 3",
+        "murl": "https://droplink.co/MoneyHeists03"
+      },
+      {
+        "tp": "Season 4",
+        "murl": "https://droplink.co/MoneyHeists04"
+      },
+      {
+        "tp": "Season 5",
+        "murl": "https://droplink.co/MoneyHeists05"
+      }
+    ]
+  },
+  {
+      "name": "Episode 81",
+      "date": "1-11-2021",
+      "image": "survior.jpg",
+      "description": "Watch Surivor Today Episode and Enjoy",
+      "url": [
+        {
+          "tp": "360",
+		  "murl": "https://droplink.co/Survivor81360"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://droplink.co/Survivor81720"
+        },
+        {
+          "tp": "1080"
+        }
+      ]
     }
-  ]
+]
   
