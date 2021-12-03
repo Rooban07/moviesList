@@ -15,8 +15,8 @@ function List() {
             <h1 className='mx-6 mb-3 dark:text-white text-bodybg font-medium text-xl'>{movieData.name}</h1>
             <div className='grid grid-cols-1 md:grid-cols-6'>
               {movieData.movies.map((ele, i) => (
-                <div key={i} className={'dark:text-gray-300 bg-white relative dark:bg-transparent m-2'}>
-                  <img className='p-1 rounded transition duration-200 text-gray-100 w-full h-3/4' src={new URL(`../assets/${ele.image}`, import.meta.url)} />
+                <div key={i} className={'dark:text-gray-300 bg-white relative dark:bg-transparent m-2 rounded-md'}>
+                  <img className='rounded-lg p-1 transition duration-200 text-gray-100 w-full h-3/4' src={new URL(`../assets/${ele.image}`, import.meta.url)} />
                   <div className='px-3 py-3'>
                     <p className=' font-semibold my-2'>{ele.name}</p>
                     <p className=' text-xs text-p-450 my-2'>{ele.description}</p>
