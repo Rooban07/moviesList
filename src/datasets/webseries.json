@@ -121,15 +121,15 @@
     "description": "Watch and Enjoy",
     "url": [
       {
-        "tp": "Season 1 EP01",
+        "tp": "S01 EP01",
         "murl": "https://droplink.co/HawkeyeE01"
       },
       {
-        "tp": "Season 1 EP02",
+        "tp": "S01 EP02",
         "murl": "https://droplink.co/HawkeyeE02"
       },
       {
-        "tp": "Season 1 EP03",
+        "tp": "S01 EP03",
         "murl": "https://droplink.co/HawkeyeE03"
       }
     ]
@@ -141,23 +141,23 @@
     "description": "Watch and Enjoy",
     "url": [
       {
-        "tp": "Season 1",
+        "tp": "S01",
         "murl": "https://droplink.co/MoneyHeists01"
       },
       {
-        "tp": "Season 2",
+        "tp": "S02",
         "murl": "https://droplink.co/MoneyHeists02"
       },
 	  {
-        "tp": "Season 3",
+        "tp": "S03",
         "murl": "https://droplink.co/MoneyHeists03"
       },
       {
-        "tp": "Season 4",
+        "tp": "S04",
         "murl": "https://droplink.co/MoneyHeists04"
       },
       {
-        "tp": "Season 5",
+        "tp": "S05",
         "murl": "https://droplink.co/MoneyHeists05"
       }
     ]
@@ -180,6 +180,85 @@
           "tp": "1080"
         }
       ]
-    }
+    },
+	{
+    "name": "Money Heist S5 - EP 06",
+    "date": "4-12-2021",
+    "image": "moneyheist5.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+          "tp": "360",
+		  "murl": "https://thestreamx.herokuapp.com/83899"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://thestreamx.herokuapp.com/83669"
+      }
+    ]
+  },
+  {
+    "name": "Money Heist S5 - EP 07",
+    "date": "4-12-2021",
+    "image": "moneyheist5.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+          "tp": "360",
+		  "murl": "https://thestreamx.herokuapp.com/83900"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://thestreamx.herokuapp.com/83900"
+      }
+    ]
+  },
+  {
+    "name": "Money Heist S5  - EP 08",
+    "date": "4-12-2021",
+    "image": "moneyheist5.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+          "tp": "360",
+		  "murl": "https://thestreamx.herokuapp.com/83673"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://thestreamx.herokuapp.com/83897"
+      }
+    ]
+  },
+  {
+    "name": "Money Heist S5 - EP 09",
+    "date": "4-12-2021",
+    "image": "moneyheist5.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+          "tp": "360",
+		  "murl": "https://thestreamx.herokuapp.com/83893"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://thestreamx.herokuapp.com/83675"
+      }
+    ]
+  },{
+    "name": "Money Heist S5 - EP 10",
+    "date": "4-12-2021",
+    "image": "moneyheist5.jpg",
+    "description": "Watch and Enjoy",
+    "url": [
+      {
+          "tp": "360",
+		  "murl": "https://thestreamx.herokuapp.com/83677"
+        },
+        {
+          "tp": "720",
+		  "murl": "https://thestreamx.herokuapp.com/83894"
+      }
+    ]
+  }
 ]
   

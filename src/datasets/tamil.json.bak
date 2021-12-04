@@ -70,7 +70,7 @@
   {
     "name": "Vanam",
     "date":"27-11-2021",
-    "image":"vanam.jpg",
+    "image":"Vanam.jpg",
     "description": "Nice Movie",
     "url": [{
       "tp":"360",
@@ -99,6 +99,66 @@
       {
       "tp":"720",
 	   "murl": "https://droplink.co/Maanaadu720"
+      
+      }]
+  },
+  {
+    "name": "Enemy",
+    "date":"3-12-2021",
+    "image":"Enemy.jpg",
+    "description": "One Time Watchable compared to Annaathe",
+    "url": [{
+      "tp":"360",
+      "murl": "https://droplink.co/Enemyhp360"
+      },
+      {
+      "tp":"720",
+	   "murl": "https://droplink.co/Enemyhp720"
+      
+      }]
+  },
+  {
+    "name": "Shabhapathy",
+    "date":"3-12-2021",
+    "image":"shabhapathy.jpg",
+    "description": "Mokka Movie",
+    "url": [{
+      "tp":"360",
+      "murl": "https://droplink.co/Sabhaapathylp360"
+      },
+      {
+      "tp":"720",
+	   "murl": "https://droplink.co/Sabhaapathylp720"
+      
+      }]
+  },
+  {
+    "name": "Sivakumarin Sabadham",
+    "date":"3-12-2021",
+    "image":"sivakumar.jpg",
+    "description": "20s Kids will like",
+    "url": [{
+      "tp":"360",
+      "murl": "https://droplink.co/sivakumarhp360"
+      },
+      {
+      "tp":"720",
+	   "murl": "https://droplink.co/sivakumar720"
+      
+      }]
+  },
+  {
+    "name": "Bachelor",
+    "date":"3-12-2021",
+    "image":"bachelor.jpg",
+    "description": "High Budget 3 Movie but climax should be more better",
+    "url": [{
+      "tp":"360",
+      "murl": "https://droplink.co/bachelorhq360"
+      },
+      {
+      "tp":"720",
+	   "murl": "https://droplink.co/bachelorhq720"
       
       }]
   }
