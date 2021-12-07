@@ -95,22 +95,22 @@
       ]
     },
     {
-      "name": "Maraikayar",
-      "date": "3-11-2021",
-      "image": "maraikayar.jpg",
+      "name": "Venom 2: Let There Be Carnage",
+      "date": "28-11-2021",
+      "image": "jacket.jpg",
       "description": "Watch and Enjoy",
       "url": [
         {
-          "tp": "250",
-          "murl": "https://droplink.co/maraikayarT250"
-        },
-        {
           "tp": "360",
-          "murl": "https://droplink.co/maraikayarT360"
+          "murl": "https://droplink.co/venom2360"
         },
         {
           "tp": "720",
-          "murl": "https://droplink.co/maraikayarT720"
+          "murl": "https://droplink.co/venom2hq720"
+        },
+        {
+          "tp": "1080",
+          "murl": ""
         }
       ]
     }
