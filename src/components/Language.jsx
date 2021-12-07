@@ -2,6 +2,7 @@ import Button from '@mui/material/Button';
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import { useNavigate } from 'react-router-dom';
+import { getImage } from '../utils';
 
 function Movies() {
   const { name } = useParams();
@@ -24,7 +25,7 @@ function Movies() {
             {movies.map((ele, i) => {
               return (
                 <div key={i} className={'dark:text-gray-300 bg-white relative dark:bg-transparent m-2'}>
-                  <img className='p-1 rounded-lg transition duration-200 text-gray-100 w-full h-3/4' src={new URL(`../assets/${ele.image}`, import.meta.url)} />
+                  <img className='p-1 rounded-lg transition duration-200 text-gray-100 w-full h-3/4' src={getImage(ele.image)} />
                   <div className='px-3 py-3'>
                     <p className=' font-semibold my-2'>{ele.name}</p>
                     <p className=' text-xs text-p-450 my-2'>{ele.description}</p>

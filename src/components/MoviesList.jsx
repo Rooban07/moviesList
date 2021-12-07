@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import lists from '../datasets/list';
+import { getImage } from '../utils';
 
 function List() {
   let newDate = new Date();
@@ -16,7 +17,7 @@ function List() {
             <div className='grid grid-cols-1 md:grid-cols-6'>
               {movieData.movies.map((ele, i) => (
                 <div key={i} className={'dark:text-gray-300 bg-white relative dark:bg-transparent m-2 rounded-md'}>
-                  <img className='rounded-lg p-1 transition duration-200 text-gray-100 w-full h-3/4' src={new URL(`../assets/${ele.image}`, import.meta.url)} />
+                  <img className='rounded-lg p-1 transition duration-200 text-gray-100 w-full h-3/4' src={getImage(ele.image)} />
                   <div className='px-3 py-3'>
                     <p className=' font-semibold my-2'>{ele.name}</p>
                     <p className=' text-xs text-p-450 my-2'>{ele.description}</p>
